@@ -1,0 +1,8 @@
+{
+  "name": "GuruGroom",
+  "description": "A live skill exchange marketplace prototype featuring finding experts, booking sessions, and real-time video collaboration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
